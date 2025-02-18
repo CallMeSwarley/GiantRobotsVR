@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartMenu.unity
+    guid: 4c97d9c057fd5974b8e9f179a129798c
+  - enabled: 1
+    path: Assets/Scenes/CombatScene.unity
+    guid: e954a735bd0b386478062a9edf012517
+  - enabled: 1
+    path: Assets/Scenes/Prolog.unity
+    guid: 514266d3e349c1a4c952f9400b8acec8
+  - enabled: 0
+    path: Assets/Scenes/NPCS.unity
+    guid: 6912a9c82e22e104daeaac675392f590
+  - enabled: 1
+    path: Assets/Scenes/Epilog.unity
+    guid: 2d5c69d03f5fbf2468b7646128ed9a68
+  - enabled: 0
+    path: Assets/Scenes/AudioDemo.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 0
+    path: Assets/Scenes/CharacterMovement.unity
+    guid: 4a28efbaa0af1544999052dbf86abb49
+  - enabled: 1
+    path: Assets/Scenes/WanderingScene.unity
+    guid: 6e415f5a3afe90f4ea477a261ee7077d
+  - enabled: 0
+    path: Assets/Scenes/CharacterMovement 2.unity
+    guid: db889fee9c2939149ba2b9d6f37d3af9
+  - enabled: 0
+    path: "Assets/Samples/Meta XR Interaction \u200BSDK/69.0.2/Example Scenes/PoseExamples.unity"
+    guid: 4fe358b21fe17764db89a9ab9f202327
+  - enabled: 1
+    path: Assets/Scenes/Tutorial.unity
+    guid: a07289f3c297f08429432f99b5e1466f
+  - enabled: 0
+    path: "Assets/Samples/Meta XR Interaction \u200BSDK/69.0.2/Example Scenes/RayExamples.unity"
+    guid: 1b2d3f90c0f50b94cb910c66c773d00d
+  - enabled: 0
+    path: Assets/Scenes/CombatScene_old.unity
+    guid: 0d0a963bc58eb4d438e8cbe497c24c01
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 91fb6f2628115d34a8492b9bee98aeed, type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: c7aa27fa14613d44b9ff5073cd8f174c, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: e5cf4d3360eaa4a47b71fd9389da1138, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 2874103d1c5b3f64289ceb4666839b0a, type: 2}

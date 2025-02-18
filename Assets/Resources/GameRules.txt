@@ -1,0 +1,32 @@
+Game: 007
+
+Objective: Defeat your opponent by reducing their life points to 0. Each player starts with 100 life points.
+
+Actions: On your turn, choose one of these five actions:
+
+Load – Prepare your weapon to shoot. You must load before shooting. You can load multiple times, with each load allowing one shot.
+
+Shoot – Fire at your opponent if you’ve loaded at least once. Each shot deducts one load. Your opponent loses life points based on your weapon’s strength (e.g., a basic shot might cause 10 damage point). You can increase weapon strength in the shop before the game.
+
+Shield – Block 100% of the damage from an opponent's shot or a disarm attempt. You start with a limited number of shields, which can be increased in the shop before the game. Note: If you use Shield, after the turn it is gone and deducted from the count, no matter what the Opponent did
+
+Dodge – Attempt to avoid an opponent’s shot. Dodging has a 50% success rate. If you successfully dodge, the opponent’s shot misses, but if you fail, you take full damage. Note: Dodging does not prevent a disarm attempt.
+
+Disarm – Attempt to reduce your opponent's load count to zero, rendering them unable to shoot until they load again. Disarming has a 70% success rate, which can be increased in the shop before the game. Disarm only works if the Opponent Loads, Dodges or tries to disarm you
+
+Turn Mechanics:
+
+Each player selects one action per turn.
+Actions are revealed simultaneously.
+Winning and Scoring:
+
+Successful Shot:
+
+If you shoot at an unshielded opponent and they are not dodging (or their dodge fails), they lose life points based on your weapon’s strength.
+Successful Disarm:
+
+A successful disarm reduces the opponent’s load count to zero. They must load again before they can shoot.
+End Game:
+
+The game ends when one player reaches 0 life points, and they lose.
+A draw occurs if both players reach 0 life points on the same turn.

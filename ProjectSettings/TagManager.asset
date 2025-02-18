@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Shield
+  - Projectile
+  - QDSUIToggleBorderlessButton
+  - QDSUIIcon
+  - QDSUITextSecondaryColor
+  - QDSUIPrimaryButton
+  - QDSUIAccentColor
+  - QDSUISharedThemeColor
+  - QDSUISecondaryButton
+  - QDSUIToggleButton
+  - QDSUIToggleCheckboxRadio
+  - QDSUIBorderlessButton
+  - QDSUIDestructiveButton
+  - QDSUIToggleSwitch
+  - PrologEpilogHandler
+  - Floor
+  - Opponent
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - HiddenMesh
+  - Water
+  - UI
+  - Floor
+  - 
+  - 
+  - 
+  - Character
+  - MirroredCharacter
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
