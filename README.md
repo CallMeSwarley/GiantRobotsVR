@@ -72,4 +72,5 @@ You can access the detailed development process documentation for the game [here
 ## Additional Notes
 
 Check out the official [trailer](https://youtu.be/VV73wE3DPkc?si=KosBeOoLj34EQat9) for the game.
+
 The original commit history can be found at: [serhadcaliskan/GiantRobots](https://github.com/serhadcaliskan/GiantRobots.git)
