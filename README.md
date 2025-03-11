@@ -7,7 +7,8 @@
 
 ## Development Context
 
-This game was developed during the Winter Term 2024/2025 at TUM as part of the [Computer Games Laboratory (IN7106)](https://www.cs.cit.tum.de/cg/teaching/winter-term-24-25/computer-games-laboratory/) course. Graded with 1.3
+This game was developed during the Winter Term 2024/2025 at TUM as part of the [Computer Games Laboratory (IN7106)](https://www.cs.cit.tum.de/cg/teaching/winter-term-24-25/computer-games-laboratory/) course.
+(Grade 1.3)
 
 ## Concept
 
