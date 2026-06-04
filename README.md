@@ -62,7 +62,7 @@ You can access the detailed development process documentation for the game [here
 
 1. **Clone the repo**:
    ```bash
-   git clone https://github.com/serhadcaliskan/GiantRobots.git
+   git clone https://github.com/CallMeSwarley/GiantRobotsVR.git
    ```
 2. **Insert your OpenAI API Key:**
    Open Assets/Config/APIKeys.cs and add your API key for OpenAI.
